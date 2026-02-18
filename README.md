@@ -153,6 +153,45 @@ Use the users.txt file for login information
 
 ---
 
+##  Future Improvements
+
+While the system successfully implements core Object-Oriented Programming concepts and functional requirements, several improvements could enhance the overall quality and user experience:
+
+###  User Interface Enhancements
+- Redesign the GUI with improved layout consistency and visual hierarchy
+- Implement modern UI frameworks (e.g., JavaFX) instead of basic Swing components
+- Improve spacing, alignment, and color scheme for better usability
+- Add responsive resizing support
+
+###  Code & Architecture Improvements
+- Refactor file handling to use resource-based loading instead of absolute paths
+- Implement proper logging instead of console printing
+- Introduce unit testing (JUnit) for core modules
+- Improve exception handling with custom exceptions
+
+###  Database Integration
+- Replace text-file storage with a relational database (e.g., MySQL or PostgreSQL)
+- Implement DAO pattern for better separation of concerns
+
+###  Security Enhancements
+- Encrypt stored passwords
+- Add role-based access validation
+- Improve email configuration security
+
+###  Deployment & Packaging
+- Package as an executable JAR
+- Add installation guide
+- Improve portability across systems
+
+---
+
+This project focused primarily on demonstrating strong Object-Oriented Programming principles and system structure rather than advanced UI/UX design.
+
+
+
+
+---
+
 
 
 Developed by Krish Sharma  
@@ -160,6 +199,7 @@ Developed by Krish Sharma
 BSc Computer Science (AI)  
 
 Asia Pacific University
+
 
 
 
