@@ -105,6 +105,7 @@ These files manage:
 
 ### Login Interface
 ![Login](Login.png)
+
 Use the users.txt file for login information
 
 ### Academic Officer Dashboard
@@ -130,6 +131,7 @@ Developed by Krish Sharma
 BSc Computer Science (AI)  
 
 Asia Pacific University
+
 
 
 
