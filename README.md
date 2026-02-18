@@ -31,6 +31,19 @@ The project demonstrates strong implementation of core OOP concepts and multi-ro
 \- GUI-based system using Java Swing
 
 
+## Data Storage
+
+The system uses text files stored in the `resources/` directory
+to simulate database functionality.
+
+These files manage:
+- User accounts
+- Course records
+- Recovery plans
+- Academic reports
+
+
+
 
 \## OOP Concepts Implemented
 
@@ -97,6 +110,7 @@ Developed by Krish Sharma
 BSc Computer Science (AI)  
 
 Asia Pacific University
+
 
 
 
