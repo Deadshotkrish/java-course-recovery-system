@@ -89,6 +89,31 @@ These files manage:
 
 
 
+
+##  Requirements
+
+- Java 17
+- Apache Maven (if building from command line)
+
+##  Dependencies
+
+All required dependencies (iText PDF, Jakarta Mail, Jakarta Activation)
+are managed automatically through Maven.
+
+No manual JAR downloads are required.
+
+##  Important Folder Structure
+
+The system uses text files stored inside the `Resources` folder
+located in the project root directory.
+
+Do NOT move or rename the `Resources` folder,
+or the application may fail to locate required data files.
+
+
+
+
+
 \## How To Run
 
 
@@ -122,6 +147,10 @@ Use the users.txt file for login information
 
 
 
+
+
+
+
 ---
 
 
@@ -131,6 +160,7 @@ Developed by Krish Sharma
 BSc Computer Science (AI)  
 
 Asia Pacific University
+
 
 
 
