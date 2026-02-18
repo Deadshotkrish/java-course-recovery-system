@@ -93,14 +93,19 @@ These files manage:
 ##  Requirements
 
 - Java 17
-- Apache Maven (if building from command line)
+- NetBeans / IntelliJ (or any Java IDE)
 
-##  Dependencies
+##  External Libraries
 
-All required dependencies (iText PDF, Jakarta Mail, Jakarta Activation)
-are managed automatically through Maven.
+This project uses the following external libraries:
 
-No manual JAR downloads are required.
+- iText PDF
+- Jakarta Mail
+- Jakarta Activation
+
+If running the project outside the original development environment,
+you may need to manually add the required JAR files to your project's classpath.
+
 
 ##  Important Folder Structure
 
@@ -199,6 +204,7 @@ Developed by Krish Sharma
 BSc Computer Science (AI)  
 
 Asia Pacific University
+
 
 
 
