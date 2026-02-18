@@ -99,6 +99,25 @@ These files manage:
 
 3\. Run `OODJAssignment.java`
 
+---
+
+##  Application Screenshots
+
+### Login Interface
+![Login](Login.png)
+
+### Academic Officer Dashboard
+![Academic Officer Dashboard](AcademicOfficerDashboard.png)
+
+###  Academic Report Generation
+![Academic Report](AcademicReport.png)
+
+###  Course Recovery Plan Interface
+![Course Recovery](CourseRecovery.png)
+
+###  Eligibility Checking Module
+![Eligibility](Eligibility.png)
+
 
 
 ---
@@ -110,6 +129,7 @@ Developed by Krish Sharma
 BSc Computer Science (AI)  
 
 Asia Pacific University
+
 
 
 
