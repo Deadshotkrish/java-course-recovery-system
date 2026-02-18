@@ -1,0 +1,18 @@
+ACADEMIC PERFORMANCE REPORT
+Student ID: TP000009
+Name      : Priya Menon
+Program   : Software Engineering
+------------------------------------------------------------
+Code     Course Title                   Credit    Grade
+------------------------------------------------------------
+CS101    Programming Fundamentals           3     2.00
+IAI101   Intro to AI                        4     2.10
+IDB101   Database Systems                   2     2.30
+CS102    Data Structures                    3     2.50
+CS103    Networks                           3     2.70
+------------------------------------------------------------
+Cumulative GPA (CGPA): 2.31
+
+Failed Courses: None
+
+Generated on: Thu Dec 11 23:04:55 GMT+08:00 2025

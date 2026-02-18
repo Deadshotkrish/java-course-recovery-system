@@ -1,0 +1,18 @@
+ACADEMIC PERFORMANCE REPORT
+Student ID: TP000017
+Name      : Farhan Malik
+Program   : Information Technology
+------------------------------------------------------------
+Code     Course Title                   Credit    Grade
+------------------------------------------------------------
+CS101    Programming Fundamentals           3     1.90
+IAI101   Intro to AI                        4     1.80
+IDB101   Database Systems                   2     2.00
+CS102    Data Structures                    3     1.70
+CS103    Networks                           3     1.90
+------------------------------------------------------------
+Cumulative GPA (CGPA): 1.85
+
+Failed Courses: CS101, IAI101, CS102, CS103
+
+Generated on: Fri Dec 12 17:26:25 GMT+08:00 2025

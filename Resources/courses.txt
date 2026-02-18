@@ -1,0 +1,5 @@
+CS101|Programming Fundamentals|3
+IAI101|Intro to AI|4
+IDB101|Database Systems|2
+CS102|Data Structures|3
+CS103|Networks|3

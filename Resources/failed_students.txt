@@ -1,0 +1,8 @@
+
+TP000023|Tina Lau|aiboyzcourserecoverysystem@gmail.com|Artificial Intelligence|1.69|5|CS101,IAI101,IDB101,CS102,CS103
+TP000002|Leonardo Tan|aiboyzcourserecoverysystem@gmail.com|Information Technology|1.82|3|CS101,IDB101,CS102
+TP000024|Ahmad Zaki|aiboyzcourserecoverysystem@gmail.com|Network Engineering|1.55|5|CS101,IAI101,IDB101,CS102,CS103
+TP000021|Imran Shah|aiboyzcourserecoverysystem@gmail.com|Cybersecurity|1.81|4|CS101,IAI101,IDB101,CS103
+TP000017|Farhan Malik|aiboyzcourserecoverysystem@gmail.com|Information Technology|1.85|4|CS101,IAI101,CS102,CS103
+TP000011|Aaron Khoo|aiboyzcourserecoverysystem@gmail.com|Data Analytics|1.66|5|CS101,IAI101,IDB101,CS102,CS103
+TP000008|Wei Jie|aiboyzcourserecoverysystem@gmail.com|Cybersecurity|1.63|4|CS101,IAI101,CS102,CS103

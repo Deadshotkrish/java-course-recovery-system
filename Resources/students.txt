@@ -1,0 +1,27 @@
+TP000001|Krish Sharma|aiboyzuniversity@gmail.com|Computer Science|CS101:3.8|IAI101:3.2|IDB101:2.9|CS102:3.0|CS103:3.4
+TP000002|Leonardo Tan|aiboyzuniversity@gmail.com|Information Technology|CS101:1.8|IAI101:2.0|IDB101:1.7|CS102:1.5|CS103:2.0
+TP000003|Amira Lee|aiboyzuniversity@gmail.com|Computer Science|CS101:2.2|IAI101:2.5|IDB101:2.0|CS102:2.4|CS103:2.1
+TP000004|Jason Wong|aiboyzuniversity@gmail.com|Data Science|CS101:3.9|IAI101:3.5|IDB101:3.8|CS102:3.6|CS103:4.0
+TP000005|Alicia Lim|aiboyzuniversity@gmail.com|Information Systems|CS101:1.9|IAI101:1.8|IDB101:1.5|CS102:1.7|CS103:1.6
+TP000006|Nadia Rahman|aiboyzuniversity@gmail.com|Computer Science|CS101:2.5|IAI101:2.3|IDB101:2.4|CS102:1.8|CS103:2.2
+TP000007|Benjamin Ooi|aiboyzuniversity@gmail.com|Artificial Intelligence|CS101:3.0|IAI101:3.1|IDB101:2.8|CS102:2.9|CS103:3.3
+TP000008|Wei Jie|aiboyzuniversity@gmail.com|Cybersecurity|CS101:1.5|IAI101:1.2|IDB101:2.0|CS102:1.8|CS103:1.9
+TP000009|Priya Menon|aiboyzuniversity@gmail.com|Software Engineering|CS101:2.0|IAI101:2.1|IDB101:2.3|CS102:2.5|CS103:2.7
+TP000010|Siti Nor|aiboyzuniversity@gmail.com|Computer Science|CS101:3.5|IAI101:3.6|IDB101:3.2|CS102:3.4|CS103:3.9
+TP000011|Aaron Khoo|aiboyzuniversity@gmail.com|Data Analytics|CS101:1.8|IAI101:1.9|IDB101:1.6|CS102:1.5|CS103:1.4
+TP000012|Mei Ying|aiboyzuniversity@gmail.com|Information Systems|CS101:2.1|IAI101:2.3|IDB101:2.2|CS102:2.0|CS103:2.5
+TP000013|Rafiq Khan|aiboyzuniversity@gmail.com|Network Security|CS101:1.4|IAI101:1.7|IDB101:1.8|CS102:1.9|CS103:1.6
+TP000014|Sophia Tan|aiboyzuniversity@gmail.com|Data Science|CS101:2.5|IAI101:2.8|IDB101:2.7|CS102:2.9|CS103:3.0
+TP000015|Daniel Lim|aiboyzuniversity@gmail.com|Software Engineering|CS101:1.8|IAI101:1.5|IDB101:1.7|CS102:1.6|CS103:1.9
+TP000016|Rachel Goh|aiboyzuniversity@gmail.com|Computer Science|CS101:2.9|IAI101:3.0|IDB101:3.1|CS102:2.8|CS103:3.0
+TP000017|Farhan Malik|aiboyzuniversity@gmail.com|Information Technology|CS101:1.9|IAI101:1.8|IDB101:2.0|CS102:1.7|CS103:1.9
+TP000018|Lydia Ong|aiboyzuniversity@gmail.com|Data Analytics|CS101:2.4|IAI101:2.5|IDB101:2.6|CS102:2.2|CS103:2.8
+TP000019|Vincent Leong|aiboyzuniversity@gmail.com|Software Engineering|CS101:1.6|IAI101:1.8|IDB101:1.5|CS102:1.9|CS103:1.7
+TP000020|Nur Aina|aiboyzuniversity@gmail.com|Information Systems|CS101:3.2|IAI101:3.0|IDB101:2.8|CS102:3.1|CS103:3.4
+TP000021|Imran Shah|aiboyzuniversity@gmail.com|Cybersecurity|CS101:1.8|IAI101:1.7|IDB101:1.6|CS102:2.0|CS103:1.9
+TP000022|Hazel Chua|aiboyzuniversity@gmail.com|Computer Science|CS101:2.3|IAI101:2.0|IDB101:2.1|CS102:2.4|CS103:2.5
+TP000023|Tina Lau|aiboyzuniversity@gmail.com|Artificial Intelligence|CS101:1.9|IAI101:1.5|IDB101:1.7|CS102:1.6|CS103:1.8
+TP000024|Ahmad Zaki|aiboyzuniversity@gmail.com|Network Engineering|CS101:1.4|IAI101:1.8|IDB101:1.6|CS102:1.5|CS103:1.4
+TP000025|Sara Lim|aiboyzuniversity@gmail.com|Data Science|CS101:3.3|IAI101:3.0|IDB101:3.4|CS102:3.1|CS103:3.5
+TP000026|Zara Han|aiboyzuniversity@gmail.com|Software Engineering|CS101:1.8|IAI101:2.7|IDB101:1.9|CS102:3.2|CS103:3.0
+

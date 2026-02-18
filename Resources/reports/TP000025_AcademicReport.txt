@@ -1,0 +1,18 @@
+ACADEMIC PERFORMANCE REPORT
+Student ID: TP000025
+Name      : Sara Lim
+Program   : Data Science
+------------------------------------------------------------
+Code     Course Title                   Credit    Grade
+------------------------------------------------------------
+CS101    Programming Fundamentals           3     3.30
+IAI101   Intro to AI                        4     3.00
+IDB101   Database Systems                   2     3.40
+CS102    Data Structures                    3     3.10
+CS103    Networks                           3     3.50
+------------------------------------------------------------
+Cumulative GPA (CGPA): 3.23
+
+Failed Courses: None
+
+Generated on: Wed Dec 10 16:38:13 GMT+08:00 2025

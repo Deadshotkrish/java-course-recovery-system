@@ -1,0 +1,18 @@
+ACADEMIC PERFORMANCE REPORT
+Student ID: TP000016
+Name      : Rachel Goh
+Program   : Computer Science
+------------------------------------------------------------
+Code     Course Title                   Credit    Grade
+------------------------------------------------------------
+CS101    Programming Fundamentals           3     2,90
+IAI101   Intro to AI                        4     3,00
+IDB101   Database Systems                   2     3,10
+CS102    Data Structures                    3     2,80
+CS103    Networks                           3     3,00
+------------------------------------------------------------
+Cumulative GPA (CGPA): 2,95
+
+Failed Courses: None
+
+Generated on: Fri Dec 12 05:20:10 WITA 2025

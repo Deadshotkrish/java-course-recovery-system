@@ -1,0 +1,18 @@
+ACADEMIC PERFORMANCE REPORT
+Student ID: TP000024
+Name      : Ahmad Zaki
+Program   : Network Engineering
+------------------------------------------------------------
+Code     Course Title                   Credit    Grade
+------------------------------------------------------------
+CS101    Programming Fundamentals           3     1.40
+IAI101   Intro to AI                        4     1.80
+IDB101   Database Systems                   2     1.60
+CS102    Data Structures                    3     1.50
+CS103    Networks                           3     1.40
+------------------------------------------------------------
+Cumulative GPA (CGPA): 1.55
+
+Failed Courses: CS101, IAI101, IDB101, CS102, CS103
+
+Generated on: Wed Dec 10 16:48:01 GMT+08:00 2025

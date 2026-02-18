@@ -1,0 +1,18 @@
+ACADEMIC PERFORMANCE REPORT
+Student ID: TP000001
+Name      : Krish Sharma
+Program   : Computer Science
+------------------------------------------------------------
+Code     Course Title                   Credit    Grade
+------------------------------------------------------------
+CS101    Programming Fundamentals           3     3.80
+IAI101   Intro to AI                        4     3.20
+IDB101   Database Systems                   2     2.90
+CS102    Data Structures                    3     3.00
+CS103    Networks                           3     3.40
+------------------------------------------------------------
+Cumulative GPA (CGPA): 3.28
+
+Failed Courses: None
+
+Generated on: Fri Dec 12 17:26:20 GMT+08:00 2025

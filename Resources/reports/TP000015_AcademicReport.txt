@@ -1,0 +1,18 @@
+ACADEMIC PERFORMANCE REPORT
+Student ID: TP000015
+Name      : Daniel Lim
+Program   : Software Engineering
+------------------------------------------------------------
+Code     Course Title                   Credit    Grade
+------------------------------------------------------------
+CS101    Programming Fundamentals           3     1.80
+IAI101   Intro to AI                        4     1.50
+IDB101   Database Systems                   2     1.70
+CS102    Data Structures                    3     1.60
+CS103    Networks                           3     1.90
+------------------------------------------------------------
+Cumulative GPA (CGPA): 1.69
+
+Failed Courses: CS101, IAI101, IDB101, CS102, CS103
+
+Generated on: Thu Feb 19 00:21:37 IST 2026

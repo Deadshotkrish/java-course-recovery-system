@@ -1,0 +1,18 @@
+ACADEMIC PERFORMANCE REPORT
+Student ID: TP000026
+Name      : Zara Han
+Program   : Software Engineering
+------------------------------------------------------------
+Code     Course Title                   Credit    Grade
+------------------------------------------------------------
+CS101    Programming Fundamentals           3     1.80
+IAI101   Intro to AI                        4     2.70
+IDB101   Database Systems                   2     1.90
+CS102    Data Structures                    3     3.20
+CS103    Networks                           3     3.00
+------------------------------------------------------------
+Cumulative GPA (CGPA): 2.57
+
+Failed Courses: CS101, IDB101
+
+Generated on: Tue Dec 09 15:27:53 GMT+08:00 2025

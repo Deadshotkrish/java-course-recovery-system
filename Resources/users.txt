@@ -1,0 +1,14 @@
+1|admin|admin123|SystemAdmin|1|aiboyzinternalsystem@gmail.com
+2|alice|alicepass|AcademicOfficer|1|aiboyzinternalsystem@gmail.com
+3|daniel|danielpass|AcademicOfficer|1|aiboyzinternalsystem@gmail.com
+4|pietergay|bruh01-|AcademicOfficer|0|aiboyzinternalsystem@gmail.com
+5|ruben|rubenpass1|AcademicOfficer|1|aiboyzinternalsystem@gmail.com
+6|manoj|manojpass1|AcademicOfficer|1|aiboyzinternalsystem@gmail.com
+7|sigma|sigmapass1|AcademicOfficer|1|aiboyzinternalsystem@gmail.com
+8|bryan|bryanpass1|AcademicOfficer|0|aiboyzinternalsystem@gmail.com
+9|krish|krishpass1|AcademicOfficer|1|aiboyzinternalsystem@gmail.com
+10|roger|rogerpass1|AcademicOfficer|0|aiboyzinternalsystem@gmail.com
+11|testuser|testuser11|SystemAdmin|1|aiboyzinternalsystem@gmail.com
+12|changedemailtest|P4SSW0RD-|SystemAdmin|1|aiboyzinternalsystem@gmail.com
+13|testagan|0pass-|SystemAdmin|1|aiboyzinternalsystem@gmail.com
+14|testemail22|password123|AcademicOfficer|0|aiboyzinternalsystem@gmail.com

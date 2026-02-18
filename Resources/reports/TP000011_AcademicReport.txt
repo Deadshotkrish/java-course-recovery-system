@@ -1,0 +1,18 @@
+ACADEMIC PERFORMANCE REPORT
+Student ID: TP000011
+Name      : Aaron Khoo
+Program   : Data Analytics
+------------------------------------------------------------
+Code     Course Title                   Credit    Grade
+------------------------------------------------------------
+CS101    Programming Fundamentals           3     1,80
+IAI101   Intro to AI                        4     1,90
+IDB101   Database Systems                   2     1,60
+CS102    Data Structures                    3     1,50
+CS103    Networks                           3     1,40
+------------------------------------------------------------
+Cumulative GPA (CGPA): 1,66
+
+Failed Courses: CS101, IAI101, IDB101, CS102, CS103
+
+Generated on: Fri Dec 12 02:40:44 WITA 2025

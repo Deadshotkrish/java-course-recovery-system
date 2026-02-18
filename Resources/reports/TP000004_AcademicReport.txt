@@ -1,0 +1,18 @@
+ACADEMIC PERFORMANCE REPORT
+Student ID: TP000004
+Name      : Jason Wong
+Program   : Data Science
+------------------------------------------------------------
+Code     Course Title                   Credit    Grade
+------------------------------------------------------------
+CS101    Programming Fundamentals           3     3,90
+IAI101   Intro to AI                        4     3,50
+IDB101   Database Systems                   2     3,80
+CS102    Data Structures                    3     3,60
+CS103    Networks                           3     4,00
+------------------------------------------------------------
+Cumulative GPA (CGPA): 3,74
+
+Failed Courses: None
+
+Generated on: Sun Dec 14 16:42:46 WITA 2025

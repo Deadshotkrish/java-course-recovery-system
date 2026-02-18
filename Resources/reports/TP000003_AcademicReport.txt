@@ -1,0 +1,18 @@
+ACADEMIC PERFORMANCE REPORT
+Student ID: TP000003
+Name      : Amira Lee
+Program   : Computer Science
+------------------------------------------------------------
+Code     Course Title                   Credit    Grade
+------------------------------------------------------------
+CS101    Programming Fundamentals           3     2.20
+IAI101   Intro to AI                        4     2.50
+IDB101   Database Systems                   2     2.00
+CS102    Data Structures                    3     2.40
+CS103    Networks                           3     2.10
+------------------------------------------------------------
+Cumulative GPA (CGPA): 2.27
+
+Failed Courses: None
+
+Generated on: Thu Nov 27 09:09:03 GMT+08:00 2025

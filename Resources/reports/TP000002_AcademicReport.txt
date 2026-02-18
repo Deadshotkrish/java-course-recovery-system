@@ -1,0 +1,18 @@
+ACADEMIC PERFORMANCE REPORT
+Student ID: TP000002
+Name      : Leonardo Tan
+Program   : Information Technology
+------------------------------------------------------------
+Code     Course Title                   Credit    Grade
+------------------------------------------------------------
+CS101    Programming Fundamentals           3     1.80
+IAI101   Intro to AI                        4     2.00
+IDB101   Database Systems                   2     1.70
+CS102    Data Structures                    3     1.50
+CS103    Networks                           3     2.00
+------------------------------------------------------------
+Cumulative GPA (CGPA): 1.82
+
+Failed Courses: CS101, IDB101, CS102
+
+Generated on: Thu Nov 27 09:09:49 GMT+08:00 2025
